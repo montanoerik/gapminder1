@@ -1,0 +1,3 @@
+Follow the outline and the sequence of steps illustrated in the notes for creating a branch and pushing to Github.  After executing your steps in the  Bash terminal, produce images 1-5 and finally email your image 5 link  that gives evidence of a successful push and merge.  Also email a Word document that shows the steps and commands that you generated in the Bash terminal.
+
+Using the imbedded data table gapminder and appropriate dplyr functions, create an R file that contains code to create the following data table. Name this table gapminder1 and save it to your Bash Working Directory.
